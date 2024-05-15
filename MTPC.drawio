@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T06:55:17.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LnEtheJurqxjAMskVpt9" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T06:57:06.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Xo4uWmXt-CR8jDc2FWkm" version="24.4.0" type="github">
   <diagram name="第 1 页" id="yV-b-hinxSaT4w1Jy_Ut">
-    <mxGraphModel dx="1105" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,14 +134,13 @@
             <mxPoint x="80" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPg76YMc0q-WbsNHMPPV-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="280" as="sourcePoint" />
-            <mxPoint x="80" y="280" as="targetPoint" />
+        <mxCell id="IPg76YMc0q-WbsNHMPPV-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPg76YMc0q-WbsNHMPPV-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IPg76YMc0q-WbsNHMPPV-36" value="D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;labelBorderColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="25" y="248" width="40" height="30" as="geometry" />
+          <mxGeometry y="258" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IPg76YMc0q-WbsNHMPPV-37" value="clk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="40" height="30" as="geometry" />
@@ -262,8 +261,11 @@
             <mxPoint x="350" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPg76YMc0q-WbsNHMPPV-78" value="Added Transistor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="345" y="180" width="110" height="30" as="geometry" />
+        <mxCell id="IPg76YMc0q-WbsNHMPPV-78" value="Added Transistor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPg76YMc0q-WbsNHMPPV-83" value="clk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
