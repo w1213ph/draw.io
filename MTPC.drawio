@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T06:59:39.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2JEH4rbeu8kby-VNI2SU" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T07:06:21.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GkVgtKuoxAqDxNrUnLxC" version="24.4.0" type="github">
   <diagram name="第 1 页" id="yV-b-hinxSaT4w1Jy_Ut">
-    <mxGraphModel dx="1105" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,13 +149,13 @@
           <mxGeometry x="300" y="522.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IPg76YMc0q-WbsNHMPPV-47" value="V&lt;sub&gt;ss&lt;/sub&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.vss2;fontSize=24;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="500" width="60" height="40" as="geometry" />
+          <mxGeometry x="540" y="522.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IPg76YMc0q-WbsNHMPPV-48" value="V&lt;sub&gt;ss&lt;/sub&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.vss2;fontSize=24;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="460" width="60" height="40" as="geometry" />
+          <mxGeometry x="680" y="522.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IPg76YMc0q-WbsNHMPPV-49" value="V&lt;sub&gt;ss&lt;/sub&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.vss2;fontSize=24;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="490" width="60" height="40" as="geometry" />
+          <mxGeometry x="150" y="522.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IPg76YMc0q-WbsNHMPPV-50" value="V&lt;sub&gt;dd&lt;/sub&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.vdd;shadow=0;dashed=0;align=center;strokeWidth=1;fontSize=24;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="60" height="40" as="geometry" />
@@ -271,6 +271,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="160" as="sourcePoint" />
             <mxPoint x="710" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPg76YMc0q-WbsNHMPPV-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.499;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IPg76YMc0q-WbsNHMPPV-49" target="IPg76YMc0q-WbsNHMPPV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="550" as="sourcePoint" />
+            <mxPoint x="180" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPg76YMc0q-WbsNHMPPV-89" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.499;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IPg76YMc0q-WbsNHMPPV-47" target="IPg76YMc0q-WbsNHMPPV-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="550" as="sourcePoint" />
+            <mxPoint x="590" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPg76YMc0q-WbsNHMPPV-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0.998;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.503;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IPg76YMc0q-WbsNHMPPV-48" target="IPg76YMc0q-WbsNHMPPV-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="520" as="sourcePoint" />
+            <mxPoint x="720" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
