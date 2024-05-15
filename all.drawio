@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T13:39:43.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iyL-spVdKzUCcW4DmeMr" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T13:50:28.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2rJbyLWJ42O3mD9DsnoQ" version="24.4.0" type="github">
   <diagram name="第 1 页" id="rRfl9mwUBugoD33uotSe">
-    <mxGraphModel dx="842" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="419" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,16 @@
             <mxPoint x="1170" y="374.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vMDUBXKROZBvSZ6tEabD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="375" as="targetPoint" />
+            <mxPoint x="185" y="175" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="206" y="175" />
+              <mxPoint x="206" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vMDUBXKROZBvSZ6tEabD-31" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;direction=west;flipH=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="170" width="75" height="20" as="geometry" />
         </mxCell>
@@ -117,6 +127,18 @@
             <mxPoint x="140" y="510" as="sourcePoint" />
             <mxPoint x="190" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vMDUBXKROZBvSZ6tEabD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.8;entryDx=0;entryDy=0;" edge="1" parent="1" source="vMDUBXKROZBvSZ6tEabD-42" target="vMDUBXKROZBvSZ6tEabD-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="174" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="174" />
+              <mxPoint x="90" y="174" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMDUBXKROZBvSZ6tEabD-42" value="Vin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
