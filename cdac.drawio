@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T09:38:18.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6rBX567U_LczY6aA_TsU" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T09:42:20.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="350E5nz-8Kjxb7aQwCO8" version="24.4.2" type="github">
   <diagram name="第 1 页" id="iLzcFQZQIDbkhLPEayTF">
-    <mxGraphModel dx="939" dy="468" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="660" dy="329" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,37 @@
         </mxCell>
         <mxCell id="XwM3Bp8nAO9JLWANIdk1-14" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1357" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1188" y="1090" width="47" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1188" y="1221" width="47" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1359" y="1090" width="47" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1359" y="1221" width="47" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1517" y="1356" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1523.5" y="1090" width="47" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1523.5" y="1221" width="47" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XwM3Bp8nAO9JLWANIdk1-23" target="XwM3Bp8nAO9JLWANIdk1-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1191" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XwM3Bp8nAO9JLWANIdk1-23" value="Vref" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="1248" width="47" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
