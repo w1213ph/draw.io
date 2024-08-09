@@ -16,11 +16,11 @@
         <mxCell id="bP4SKRxJgAOZLgYwFLmc-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.pmos;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="520" y="130" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bP4SKRxJgAOZLgYwFLmc-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.pmos;pointerEvents=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="bP4SKRxJgAOZLgYwFLmc-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.pmos;pointerEvents=1;direction=south;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bP4SKRxJgAOZLgYwFLmc-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.nmos;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="100" height="60" as="geometry" />
+          <mxGeometry x="130" y="300" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bP4SKRxJgAOZLgYwFLmc-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.nmos;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="700" y="180" width="100" height="60" as="geometry" />
